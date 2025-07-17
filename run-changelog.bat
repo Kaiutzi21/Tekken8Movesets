@@ -1,2 +1,2 @@
-powershell -ExecutionPolicy Bypass -File "generate-changelog.ps1"
+powershell -ExecutionPolicy Bypass -File "generate-changelogs.ps1"
 pause
