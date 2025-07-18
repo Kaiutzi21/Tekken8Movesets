@@ -1,4 +1,7 @@
-﻿## 4f98439 - Update t8_FAHKUMRAM.json
+﻿## 87cc3b9 - Changelog Creation
+
+
+## 4f98439 - Update t8_FAHKUMRAM.json
 - New Cancel: df4,3,3. Gives a steppable but + on block cancel. Not a natural string on hit nor counter hit
 - d+2 recovers 2F faster
 - New Cancel: 3,1,d2.
