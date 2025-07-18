@@ -50,3 +50,6 @@
 # SS 2
 - now tornadoes on normal hit
 
+# b+1
+- Now fully launches on counter hit
+
