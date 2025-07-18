@@ -14,10 +14,10 @@
 - New cancel:	
 
 		uf1+2,3+4
-					Cancels into JGSp
+			Cancels into JGSp
 					
-				uf1+2,b,3+4
-					Cancels into JGSp
+		uf1+2,b,3+4
+			Cancels into JGSp
 					
 ## b1+2
 - now also connects on wallbounded opponents
@@ -39,8 +39,8 @@
 ## d3+4
 - Changed cancel:	
 
-					d3+4,2
-						changed mid extension, converts into JGSp, strong aerial tailspins
+			d3+4,2
+				changed mid extension, converts into JGSp, strong aerial tailspins
 
 ## f1+2
 - Recovers "4F" faster on hit
@@ -60,7 +60,7 @@
 ## Jaguar Sprint
 - New cancel:
 
-			d1+2
-				armored move, tornadoes airborne opponents,
-				transitions into Jaguar Sprint
+		d1+2
+			armored move, tornadoes airborne opponents,
+			transitions into Jaguar Sprint
 
