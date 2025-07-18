@@ -13,7 +13,7 @@
 ## uf1+2
 - New cancel:	
 
-				uf1+2,3+4
+		uf1+2,3+4
 					Cancels into JGSp
 					
 				uf1+2,b,3+4
