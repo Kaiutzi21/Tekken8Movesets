@@ -11,7 +11,9 @@
 - Now unblockable mid, increased damage to 35
 
 ## uf1+2
-- New cancel:	uf1+2,3+4
+- New cancel:	
+
+				uf1+2,3+4
 					Cancels into JGSp
 					
 				uf1+2,b,3+4
@@ -35,7 +37,9 @@
 - now also converts on airborne opponents
 
 ## d3+4
-- Changed cancel:	d3+4,2
+- Changed cancel:	
+
+					d3+4,2
 						changed mid extension, converts into JGSp, strong aerial tailspins
 
 ## f1+2
@@ -52,4 +56,11 @@
 
 ## b+1
 - Now fully launches on counter hit
+
+## Jaguar Sprint
+- New cancel:
+
+			d1+2
+				armored move, tornadoes airborne opponents,
+				transitions into Jaguar Sprint
 
