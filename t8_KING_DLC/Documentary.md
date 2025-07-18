@@ -39,8 +39,8 @@
 ## d3+4
 - Changed cancel:	
 
-			d3+4,2
-				- changed mid extension, converts into JGSp, strong aerial tailspins
+		d3+4,2
+			- changed mid extension, converts into JGSp, strong aerial tailspins
 
 ## f1+2
 - Recovers "4F" faster on hit
