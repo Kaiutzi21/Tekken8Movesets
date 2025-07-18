@@ -1,6 +1,6 @@
-﻿## Documentary FAHKUMRAM Changes
+# Documentary FAHKUMRAM Changes
 
-# Df+1
+## Df+1
 - Changed from "15F" startup to "13-14F" startup
 - New cancel:	df+1,2
 					High Extension, natural combo
@@ -28,20 +28,20 @@
 				df+1,4,1
 					Mid cancel, safe on block and forces crouch
 				
-# D+4
+## D+4
 - Gives Garuda Force on counter hit
 
-# b+1
+## b+1
 - Changed the reaction on hit, f+2,1 is now guaranteed
 
-# bf+4
+## bf+4
 - Gives Garuda Force on hit
 
-# ff1+2
+## ff1+2
 - New cancel:	ff1+2,u
 					Attack to throw conversion. Requires & spends Garuda Force.
 				
-# 3,1
+## 3,1
 - New cancel:	3,1,4
 					Safe mid Extension, natural combo if second hit is counter
 					
@@ -51,31 +51,31 @@
 				3,1,d+2
 					Unsafe mid Extension, floor breaks, natural combo if second hit is counter
 
-# d+2
+## d+2
 - Reduced the recovery frames by "2F"
 
-# uf+1 HOLD
+## uf+1 HOLD
 - Gives floor stun on hit
 - Removes grey health on hit
 - Requires & spends Garuda Force. 
 
-# df+4,3
+## df+4,3
 - New cancel:	df+4,3,3
 					Safe mid cancel, steppable to both sides, launches on hit
 					
-# f1+2
+## f1+2
 - Now tornadoes airborne opponents
 - No longer a heat engager
 
-# df3+4
+## df3+4
 - Increased damage from 8,8 to 12,12
 - Reduced the recovery frames by "1F"
 
-# 4,3,4 | d+3,4,3,4
+## 4,3,4 | d+3,4,3,4
 - New cancel: 4,3,4,1 | d+3,4,3,4
 				High cancel, safe on block, wallsplats
 
-# b+2
+## b+2
 - New cancel: b+2,3
 				Low Extension
 
