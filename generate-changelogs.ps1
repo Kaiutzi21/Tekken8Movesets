@@ -11,14 +11,14 @@ Get-ChildItem -Directory | ForEach-Object {
         return
     }
 
-    $lastChangelogCommit = git log -n 1 --format="%H" -- "$changelogPath" 2>$null
+    $lastChangelogCommit = & git log -n 1 "--format=%H" -- "$changelogPath" 2>$null
     if (-not $lastChangelogCommit) {
         Write-Host "$folderName has no changelog commit yet – will create new one." -ForegroundColor Cyan
     }
 
     $jsonChanged = $false
     foreach ($json in $jsonFiles) {
-        $changed = git log --since="$lastChangelogCommit" --format="%H" -- "$($json.FullName)" 2>$null
+        $changed = & git log "--since=$lastChangelogCommit" "--format=%H" -- "$($json.FullName)" 2>$null
         if ($changed) {
             $jsonChanged = $true
             break
@@ -26,13 +26,14 @@ Get-ChildItem -Directory | ForEach-Object {
     }
 
     if (-not $jsonChanged -and $lastChangelogCommit) {
-        Write-Host "$folderName: No relevant changes since last changelog. Skipping..." -ForegroundColor Gray
+        Write-Host "${folderName}: No relevant changes since last changelog. Skipping..." -ForegroundColor Gray
         return
     }
 
-    $log = git log --pretty=format:"## %h - %s`n%b`n" -- "$folderName" 2>$null
+    $log = & git log "--pretty=format:## %h - %s`n%b`n" -- "$folderName" 2>$null
+
     if (-not $log) {
-        Write-Host "$folderName: No commits found. Skipping..." -ForegroundColor Gray
+        Write-Host "${folderName}: No commits found. Skipping..." -ForegroundColor Gray
         return
     }
 
@@ -41,7 +42,7 @@ Get-ChildItem -Directory | ForEach-Object {
     if (Test-Path $changelogPath) {
         $existingContent = Get-Content $changelogPath -Raw
         if ($existingContent -eq $logText) {
-            Write-Host "$folderName: CHANGELOG.md is up to date. Skipping..." -ForegroundColor Gray
+            Write-Host "${folderName}: CHANGELOG.md is up to date. Skipping..." -ForegroundColor Gray
             return
         }
     }
@@ -50,4 +51,4 @@ Get-ChildItem -Directory | ForEach-Object {
     $logText | Out-File -Encoding UTF8 -FilePath $changelogPath
 }
 
-Write-Host "Selective changelog generation complete!" -ForegroundColor Green
+Write-Host "Changelog generation complete!" -ForegroundColor Green
