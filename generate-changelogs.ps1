@@ -18,7 +18,7 @@ Get-ChildItem -Directory | ForEach-Object {
         $existingContent = Get-Content $changelogPath -Raw
 
         if ($existingContent -eq $logText) {
-            Write-Host "$folderName: CHANGELOG.md is up to date (skipping...)" -ForegroundColor DarkYellow
+		Write-Host "${folderName}: CHANGELOG.md is up to date (skipping...)" -ForegroundColor DarkYellow
             return
         }
     }

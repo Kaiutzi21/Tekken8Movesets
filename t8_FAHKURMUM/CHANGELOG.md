@@ -1,4 +1,7 @@
-﻿## 2b03cde - Update t8_FAHKUMRAM.json
+﻿## 30fb296 - Updated Changelogs
+
+
+## 2b03cde - Update t8_FAHKUMRAM.json
 - df+1,2 recovers 4F faster
 
 - 3+4 gives Garuda Force on counter hit
