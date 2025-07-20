@@ -1,1 +1,24 @@
-﻿## 0bc5a09 - Test3nbruhnnn## b8ff977 - Script testing2nnn## 0c9b159 - updated changelog scriptnanother test runnnn## 30fb296 - Updated Changelogsnnn## ca68d7c - Updated Changelogsnnn## b2fb4c2 - Create t8_RAVEN.jsonn- New cancel: b4,1 (enables full combo after uf3+4)n- increased dmg from qcf3 by 5 pointsnn
+﻿## 16b2bce - i give up
+
+
+## 0bc5a09 - Test3
+bruh
+
+
+## b8ff977 - Script testing2
+
+
+## 0c9b159 - updated changelog script
+another test run
+
+
+## 30fb296 - Updated Changelogs
+
+
+## ca68d7c - Updated Changelogs
+
+
+## b2fb4c2 - Create t8_RAVEN.json
+- New cancel: b4,1 (enables full combo after uf3+4)
+- increased dmg from qcf3 by 5 points
+
