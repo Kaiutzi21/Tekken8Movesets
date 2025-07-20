@@ -1,0 +1,61 @@
+import os
+import subprocess
+
+def has_json_changed(folder):
+
+    for filename in os.listdir(folder):
+        if filename.endswith(".json"):
+            filepath = os.path.join(folder, filename)
+            result = subprocess.run(
+                ["git", "log", "-1", "--pretty=format:%H", "--", filepath],
+                capture_output=True,
+                text=True
+            )
+            return bool(result.stdout.strip())
+    return False
+
+def get_git_log(folder):
+
+    for filename in os.listdir(folder):
+        if filename.endswith(".json"):
+            filepath = os.path.join(folder, filename)
+            result = subprocess.run(
+                ["git", "log", "--pretty=format:## %h - %s%n%b", "--", filepath],
+                capture_output=True,
+                text=True
+            )
+            return result.stdout.strip()
+    return ""
+
+def update_changelog(folder):
+
+    changelog_path = os.path.join(folder, "CHANGELOG.md")
+    log_text = get_git_log(folder)
+
+    if not log_text:
+        print(f"[SKIP] Keine relevanten Commits in {folder}")
+        return
+
+
+    if os.path.exists(changelog_path):
+        with open(changelog_path, "r", encoding="utf-8") as f:
+            if f.read().strip() == log_text.strip():
+                print(f"[UP TO DATE] {folder}/CHANGELOG.md ist aktuell.")
+                return
+
+    with open(changelog_path, "w", encoding="utf-8") as f:
+        f.write(log_text + "\n")
+    print(f"[UPDATED] CHANGELOG für {folder} aktualisiert.")
+
+def main():
+    base_dir = os.getcwd()
+    for entry in os.listdir(base_dir):
+        folder = os.path.join(base_dir, entry)
+        if os.path.isdir(folder):
+            if has_json_changed(folder):
+                update_changelog(folder)
+            else:
+                print(f"[NO CHANGES] {entry} wurde nicht geändert.")
+
+if __name__ == "__main__":
+    main()
