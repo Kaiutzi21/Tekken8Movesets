@@ -24,7 +24,7 @@ Get-ChildItem -Directory | ForEach-Object {
     }
 
     Write-Host "Updating CHANGELOG.md for $folderName..." -ForegroundColor Green
-    $logText | Out-File -Encoding UTF8 -FilePath $changelogPath
+    $logText | Set-Content -Encoding UTF8 -NoNewline $changelogPath
 }
 
 Write-Host "Changelog generation complete!" -ForegroundColor Green
