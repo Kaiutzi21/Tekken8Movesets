@@ -1,4 +1,40 @@
-﻿## 87cc3b9 - Changelog Creation
+﻿## 2b03cde - Update t8_FAHKUMRAM.json
+- df+1,2 recovers 4F faster
+
+- 3+4 gives Garuda Force on counter hit
+
+
+## 7ff755c - Update t8_FAHKUMRAM.json
+- 3,4,3
+-- 3,4,3,b - sped up the cancel, now strong aerial tailspin on juggle hit
+-- 3,4,3,f sped up the cancel
+-- 3,4,3,d sped up the cancel
+
+- 4,3,4
+-- 4,3,4,b - sped up the cancel, now strong aerial tailspin on juggle hit
+-- 4,3,4,f - sped up the cancel
+-- 4,3,4,d - sped up the cancel
+
+- ff+4 | df+1,4 | ws2,4
+now strong aerial tailspin on juggle hit
+
+
+## f4e03fa - Documentary.md aktualisieren
+
+
+## 09eb9d0 - Documentary.md aktualisieren
+
+
+## a6c015c - Documentary.md aktualisieren
+
+
+## 6b9b5d2 - Added Documentaries
+
+
+## ca68d7c - Updated Changelogs
+
+
+## 87cc3b9 - Changelog Creation
 
 
 ## 4f98439 - Update t8_FAHKUMRAM.json
