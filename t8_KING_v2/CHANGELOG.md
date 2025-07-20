@@ -1,4 +1,7 @@
-﻿## 0c9b159 - updated changelog script
+﻿## b8ff977 - Script testing2
+
+
+## 0c9b159 - updated changelog script
 another test run
 
 
@@ -19,4 +22,3 @@ Test run of the Changelog script
 
 
 ## 3de1008 - Initial commit
-
