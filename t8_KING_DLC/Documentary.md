@@ -2,11 +2,11 @@
 
 **All changes, cancels, new stuff listed and commented**
 
-## ws2,2
+## ws.2,2
 	- Strong aerial tailspins airborne opponents
 	- sped up the transition to JGSp
 
-## f2,1
+## f+2,1
 	- Changed oh hit reaction for airborne opponents, no longer sending them grounded
 
 ## Chair
@@ -27,7 +27,7 @@
 ## 3,2
 	- Converts to throw on hit, requires wallsplat, floorbreaks
 
-## wr 2+4
+## wr.2+4
 	- (SHINING WIZARD) always blue spark version
 	- (RUNNING JAGUAR BOMB) Tornadoes airborne opponents
 	- (SHINING TORPEDO) added blue spark version, dealing 5 points more damage
@@ -50,16 +50,16 @@
 ## 1+2
 	- Recovers "3F" faster
 
-## BT 1+2
+## BT.1+2
 	- increased damage to 45
 
-## SS 2
+## SS.2
 	- now tornadoes on normal hit
 
 ## b+1
 	- Now fully launches on counter hit
 
-## Jaguar Sprint
+## Jaguar Sprint (JGSp | JGR)
 	- New cancel:
 
 		d1+2
