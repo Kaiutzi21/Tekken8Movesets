@@ -1,3 +1,5 @@
+## 066b011 - Update t8_FAHKUMRAM.json
+
 ## d23afbe - Updated Fahk and Doc
 - Ram 2 recovers faster
 - df3+4 new cancel preparement
