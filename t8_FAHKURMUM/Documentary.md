@@ -26,7 +26,7 @@
 			increased damage during Garuda Force / heat	
 			This change also applies to ff+4,3,2 | ws2,4,3,2
 					
-		- df+1,4,3,2,u
+		- df+1,4,3,2,u 
 			Attack to throw conversion. Requires & spends Garuda Force.
 			This change also applies to ff+4,3,2 | ws2,4,3,2
 					
@@ -62,7 +62,7 @@
 
 ## 3,4,3
 	- 3,4,3,f
-		Sped up the cancel
+		Sped up the cancel, sped up transition into crouch
 	
 	- 3,4,3,b
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
@@ -85,7 +85,7 @@
 	- New cancel:	
 
 		df+4,3,3
-			Safe mid cancel, steppable to both sides, launches on hit
+			Slow, plus on block mid cancel, steppable to both sides, launches on hit
 					
 ## f1+2
 	- Now tornadoes airborne opponents
@@ -97,7 +97,7 @@
 
 ## (d+3),4,3,4
 	- 4,3,4,f
-		Sped up the cancel
+		Sped up the cancel, sped up transition into crouch
 	
 	- 4,3,4,b
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
@@ -116,8 +116,15 @@
 		- b+2,3
 			Low Extension
 
+## b3+4
+	- increased pushback on block and hit
+	- Changed the reaction on block, making this move -7 instead of -13
+
 ## ws.2
 	- Increased damage from 13 to 15
 
 ## ff+4 | df+1,4 | ws.2,4
 	- Changed the reaction on hit on airborn opponents to a strong aerial tailspin
+
+## RAM.2
+	- Reduced recovery frames by 4F
