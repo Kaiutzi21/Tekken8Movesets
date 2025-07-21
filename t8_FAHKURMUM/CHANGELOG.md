@@ -1,3 +1,8 @@
+## d23afbe - Updated Fahk and Doc
+- Ram 2 recovers faster
+- df3+4 new cancel preparement
+- crouch cancels sped up and polished
+
 ## 2b03cde - Update t8_FAHKUMRAM.json
 - df+1,2 recovers 4F faster
 
