@@ -80,7 +80,8 @@ Balance	↓↑
   - Adjusted the frame advantage on block from "+12F" to "+4F"
   - can now transition into PAB by holding F
   
-## 	Visual FX from EXD moves	Visual	
+## 	Visual FX from EXD moves	
+pure visual	 change
   -	Returned the new visuals of the EXD moves to the blue spark versions, instead of red heat.
   
 ## 	u2	
