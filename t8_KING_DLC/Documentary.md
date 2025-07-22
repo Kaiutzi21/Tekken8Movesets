@@ -62,7 +62,7 @@
 ## Jaguar Sprint (JGSp | JGR)
 	- New cancel:
 
-		d1+2
+		3+4
 			- power crush, tornadoes airborne opponents,
 			transitions into Jaguar Sprint
 
