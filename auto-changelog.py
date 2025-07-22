@@ -1,3 +1,11 @@
+# ================================
+# Script: auto-changelog.py
+# Author: Kaiutzi21
+# GitHub: github.com/kaiutzi21
+# Created: 2025-07-20
+# Description: Creates and updates automatic Changelogs for each folder, based on recent commits, checking if the JSON file got modified
+# ================================
+
 import os
 import subprocess
 
@@ -45,7 +53,7 @@ def update_changelog(folder):
 
     with open(changelog_path, "w", encoding="utf-8") as f:
         f.write(log_text + "\n")
-    print(f"[UPDATED] CHANGELOG für {folder} aktualisiert.")
+    print(f"[UPDATED] {folder}/CHANGELOG.md aktualisiert.")
 
 def main():
     base_dir = os.getcwd()
