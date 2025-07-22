@@ -1,68 +1,72 @@
-# Documentary KING Changes
+# Documentary Lee_v2 Changes
 
 **All changes, cancels, new stuff listed and commented**
 
-## ws.2,2
-	- Strong aerial tailspins airborne opponents
-	- sped up the transition to JGSp
+## Universal Changes
+	- Season 2 implented an 'auto backroll' feature for certain knockdowns. This has been removed.
+	- Wallsplatted opponents no longer can be tornadoed
+ 	- Heatburst now spikes airborne opponents, giving a free followup but no longer extends combos
+ 
+## 	Perfect inputs	Chip damage	↑	
+	- slightly increased the chip damage dealt on perfectly inputted high attacks (from 40% to 45%)
+	- very slightly increased the amount of heat regained, when performing any perfect input while in heat (from 9% to 10%)"
+  
+## 	Heat Smash	BalanceHeat	↑	
+	- Changed the damage on hit from 37 to 40 damage
 
-## f+2,1
-	- Changed on hit reaction for airborne opponents, no longer sending them grounded
+## 	df+3+4	BalanceHeat	↓↑	
+	- Adjusted the reaction on hit, which puts the opponent into a juggle state
+	- Lowered the overall damage from 35 to 25
+	- Increased the amount of heat used for this move to 100% (one time use only)
+  
+## 	d+1+2		BalanceHeat	↑	
+	- Consumes slightly less heat
+	- Changed the damage on hit from 30 to 32
+  
+## 	ws2,3		Balance	↓↑	
+	- Adjusted the reaction on hit of the first hit, no longer putting the opponent into a juggle state
+	- Adjusted the reaction on hit of the second hit, no longer making this trigger tornado on hit. 
+	- Vertical pushback has been adjusted, making the opponent lift up higher during juggles
+  
+## 	b+2,4,3f	Balance	↓	
+	- Removed
+ 
+## 	1,2,4		Balance	↓	
+	- Reduced damage on the last hit from 10 to 9 (perfect input remains untouched)
 
-## Chair
-	- Now unblockable mid, increased damage to 35
+## 	ff+2		Balance	↓	
+	- Slowed down the attack, making the move come out at 18F
+	- no longer deals chip damage"
 
-## uf1+2
-	- New cancel:	
+## 	"ff:2 (perfect input) | During Heat ff+2"	Balance	↓	
+	- Slowed down the attack, making the move come out at 17F
 
-		uf1+2,3+4
-			- Cancels into JGSp
-					
-		uf1+2,b,3+4
-			- Cancels into JGSp
-					
-## b1+2
-	- now also connects on wallbounded opponents
+## 	b+4		Balance	↑	
+	- Increased the damage from 17 to 20
 
-## 3,2
-	- Converts to throw on hit, requires wallsplat, floorbreaks
+## 	ws2,4		Balance	↑	
+	- Now tornados airborne opponents
 
-## wr.2+4
-	- (SHINING WIZARD) always blue spark version
-	- (RUNNING JAGUAR BOMB) Tornadoes airborne opponents
-	- (SHINING TORPEDO) added blue spark version, dealing 5 points more damage
+## 	fc df,d,df+3 | During Mist Step 3+4	Balance	↓	
+	- Increased the recovery time by "2F", changing the frame advantage on hit from "+5F" to "+3F" (perfect input remains untouched)
 
-## ff,n,1+2
-	- removed the initial scaling on counter hit
+## 	4,4:4 (perfect input)	Balance	↑	
+	- Decreased the recovery time by "2F", making followups on counterhit slightly easier, changing the frame advantage on block from "-9F" to "-7F"
 
-## b+3,1+2
-	- now also converts on airborne opponents
+## 	ff+3		Balance	↓↑	
+	- Adjusted the reaction on block, changing the frame advantage from "-9F" to "-10F"
+	- Increased the pushback on block
+  
+## 	df+3,2,3	BalanceHeat	↓↑	
+	- No longer behaves as a heat engager
+	- Adjusted the backturned reaction on hit, leaving the opponent in a juggle state
+ 
+## 	ff+4		Balance	↓	
+	- Changed the damage from 22 to 20
 
-## d3+4
-	- Changed cancel:	
-
-		d3+4,2
-			- changed mid extension, converts into JGSp, strong aerial tailspins
-
-## f1+2
-	- Recovers "4F" faster on hit
-
-## 1+2
-	- Recovers "3F" faster
-
-## BT.1+2
-	- increased damage to 45
-
-## SS.2
-	- now tornadoes on normal hit
-
-## b+1
-	- Now fully launches on counter hit
-
-## Jaguar Sprint (JGSp | JGR)
-	- New cancel:
-
-		3+4
-			- power crush, tornadoes airborne opponents,
-			transitions into Jaguar Sprint
-
+## 	d+2		Balance	↓	
+	- Changed the damage from 17 to 15
+	- increased the evasion and crushing properties of this move during the middle part of the attack animation
+  
+## 	FC df+4		Balance	↓	
+	- Adjusted the frame advantage on hit from +3F to +1F
