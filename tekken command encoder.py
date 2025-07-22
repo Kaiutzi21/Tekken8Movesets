@@ -3,7 +3,7 @@
 # Author: Kaiutzi21
 # GitHub: github.com/kaiutzi21
 # Created: 2025-07-20
-# Description: Small overlay to help generate and copy Commands
+# Description: Small web-based overlay to help generate and copy Commands
 # ================================
 
 from flask import Flask, render_template_string, request
