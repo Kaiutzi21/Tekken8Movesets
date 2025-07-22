@@ -6,6 +6,7 @@ For stable, tested mods:
 Each release includes:
 - Complete mod folder for a specific character or change.
 - Ready-to-use files with known compatibility.
+- Complete Documentary and Changelog about every change
 
 Use the 'Tekken 8 Moveset Extractor' and once in game load the movesets into your playerside. Moveset-character MUST equal gameplay-character.
 
