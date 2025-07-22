@@ -7,7 +7,7 @@
 	- sped up the transition to JGSp
 
 ## f+2,1
-	- Changed oh hit reaction for airborne opponents, no longer sending them grounded
+	- Changed on hit reaction for airborne opponents, no longer sending them grounded
 
 ## Chair
 	- Now unblockable mid, increased damage to 35
