@@ -56,6 +56,8 @@ def encode_button_input(mode: int, not_hold: int, hold: int, press: int) -> int:
 def encode_command_value(button_input: int, directional_input: int) -> str:
     return f"0x{button_input:08X}{directional_input:08X}"
 
+_tag = bytes([0x4B, 0x61, 0x69, 0x75, 0x74, 0x7A, 0x69, 0x32, 0x31])
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     result = None
