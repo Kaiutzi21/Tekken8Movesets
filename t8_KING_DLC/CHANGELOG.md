@@ -1,7 +1,10 @@
+## 6354459 - Update t8_KING.json
+- updated some visuals
+
 ## 23e2731 - Update t8_KING.json
 - made JGSt2.4 | JGSt3.4 | .... unblockable (like in T7)
 
-- changed ff,n2 counter hit reaction
+-changed ff,n2 counter hit reaction
 
 - added a "uf3+4" cancel to a couple of JGSp Cancels
 

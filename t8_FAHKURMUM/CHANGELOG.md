@@ -1,3 +1,9 @@
+## 4a744e8 - Update t8_FAHKUMRAM.json
+- new move: df3+4, 3
+changed the damage from 12,12 to 10,10
+
+- df3,3 increased the combo vulnerability on hit
+
 ## 066b011 - Update t8_FAHKUMRAM.json
 
 ## d23afbe - Updated Fahk and Doc
