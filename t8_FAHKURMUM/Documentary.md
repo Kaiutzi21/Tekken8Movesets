@@ -92,8 +92,10 @@
 	- No longer a heat engager
 
 ## df3+4
-	- Increased damage from 8,8 to 12,12
+	- Increased damage from 8,8 to 10,10
 	- Reduced the recovery frames by "1F"
+ 	- New cancel: df3+4, 3
+  			high kick extension, wallsplats, natural string on hit, -12 on block
 
 ## (d+3),4,3,4
 	- 4,3,4,f
