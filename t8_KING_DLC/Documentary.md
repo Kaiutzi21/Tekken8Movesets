@@ -2,6 +2,12 @@
 
 **All changes, cancels, new stuff listed and commented**
 
+King Design Philosophy – “DLC / Boss Mode”
+This version was deliberately designed to be exaggerated, as if he was an overpowered DLC Character or as a “boss character”. 
+Moves received massive upgrades in damage, visuals, and presence – whether through new cancels, unbreakable grabs or other properties. 
+The mechanics are not aimed at balance, but at fun, showmanship, and pure explosiveness. 
+This moveset serves as a declaration of love for his identity.
+
 ## ws.2,2
 	- Strong aerial tailspins airborne opponents
 	- sped up the transition to JGSp
