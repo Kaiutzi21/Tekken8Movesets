@@ -1,7 +1,13 @@
 # Documentary Lee_v2 Changes
-used to be part of the 'Tekken 8 Rebalance' project
+(used to be part of the 'Tekken 8 Rebalance' project)
 
-**All changes, cancels, new stuff listed and commented**
+**All changes, cancels, new stuff are listed and commented here**
+
+The goal is a character that rewards perfect technique over raw aggression.
+Lee should play cleanly, technically, and precisely — accessible to beginners, very rewarding for experts.
+His gameplay is based on strong keepout, punishment, counter hits and he prefers to work with chip damage and evasion to sneak in damage, rather than good poking and forced mixups.
+Execution-intensive moves such as perfect inputs therefore are enforced to utilize the better damage or properties.
+Lee shines when played with discipline and deliberation. Marvelous!
 
 ## Universal Changes
 	- Season 2 implented an 'auto backroll' feature for certain knockdowns. This has been removed.
