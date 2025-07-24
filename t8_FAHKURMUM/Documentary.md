@@ -3,7 +3,8 @@
 **All changes, cancels, new stuff listed and commented**
 
 This Fahkumram moveset is leaning more towards his Tekken 7 iteration, while also having my own spin on it.
-Overall leaning to the 'overbuffed' side, but not overpowered. He is still weak to sidesteps and unsafe on whiffs. In my opinion he feels more explosive and fun to play. 
+Overall leaning to the 'overbuffed' side, but not overpowered. He is still weak to sidesteps and unsafe on whiffs and therefore quite commital. 
+In my opinion he feels more explosive and fun to play, while still being methodical and risky. 
 He still feels most comfortable at long-mid range and his b3+4 is now amazing at bullying and creating the perfect distance.
 Impatient opponents will be punished a bit more now since his counter-hit tools now give Garuda Force and overall there are now more ways to spend it and cash out.
 
