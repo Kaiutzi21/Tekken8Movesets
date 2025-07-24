@@ -1,0 +1,5 @@
+- create a wallbounce hit raction like in Tekken 7 (look at 3,1,4,4 hit reaction on front and back) and make f1+2 a wallbounce move
+- find a creative way to make 3,4,3,d | 4,3,4,d more viable? (and also his other cancels?)
+- df3+4,3+4 transition in juggles for a 'restand'?
+- make new RAMA stance cancels? (his old ragedrive accessible?)
+- 
