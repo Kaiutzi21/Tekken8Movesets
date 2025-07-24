@@ -2,9 +2,14 @@
 
 **All changes, cancels, new stuff listed and commented**
 
+This Fahkumram moveset is leaning more towards his Tekken 7 iteration, while also having my own spin on it.
+Overall leaning to the 'overbuffed' side, but not overpowered. He is still weak to sidesteps and unsafe on whiffs. In my opinion he feels more explosive and fun to play. 
+He still feels most comfortable at long-mid range and his b3+4 is now amazing at bullying and creating the perfect distance.
+Impatient opponents will be punished a bit more now since his counter-hit tools now give Garuda Force and overall there are now more ways to spend it and cash out.
+
 ## df+1
 	- Changed from "15F" startup to "13-14F" startup
-	- New cancel:	
+	New cancel:	
 
 		- df+1,2
 			High Extension, natural combo
@@ -37,13 +42,13 @@
 	- Gives Garuda Force on counter hit
 
 ## b+1
-	- Changed the reaction on hit, f+2,1 is now guaranteed
+	- Changed the reaction on hit
 
 ## bf+4
 	- Gives Garuda Force on hit
 
 ## ff1+2
-	- New cancel:	
+	New cancel:	
 					
 	ff1+2,u
 			Attack to throw conversion. Requires & spends Garuda Force.
@@ -61,7 +66,10 @@
 			Unsafe mid Extension, floor breaks, natural combo if second hit is counter
 
 ## 3,4,3
-	- 3,4,3,f
+	- 3,4,3 HOLD (without Garuda)
+ 		Now guardbreaks at +14F
+ 	
+  	- 3,4,3,f
 		Sped up the cancel, sped up transition into crouch
 	
 	- 3,4,3,b
@@ -82,7 +90,7 @@
 	- Requires & spends Garuda Force. 
 
 ## df+4,3
-	- New cancel:	
+	New cancel:	
 
 		df+4,3,3
 			Slow, plus on block mid cancel, steppable to both sides, launches on hit
@@ -96,6 +104,9 @@
 	- Reduced the recovery frames by "1F"
 
 ## (d+3),4,3,4
+
+	- 4,3,4 HOLD
+ 		Now guardbreaks at "+14F"
 	- 4,3,4,f
 		Sped up the cancel, sped up transition into crouch
 	
@@ -105,13 +116,13 @@
 	- 4,3,4,d
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
 
-	- New cancel: 
+	New cancel: 
 
-		- 4,3,4,1 | d+3,4,3,4
+		- 4,3,4,1 | d+3,4,3,4,1
 			High cancel, safe on block, wallsplats
 
 ## b+2
-	- New cancel: 
+	New cancel: 
 
 		- b+2,3
 			Low Extension
