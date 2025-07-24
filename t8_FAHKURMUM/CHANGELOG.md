@@ -1,3 +1,22 @@
+## e1634e8 - Update t8_FAHKUMRAM.json
+- RAM.1 is now guaranteed after Garuda Force Guardbreak
+
+- 4,3,4 hold and 3,4,3 hold guard breaks are now +13 instead of +14
+
+- b2,1 deal 16, 24 dmg now instead of 17, 25
+
+- unified f2,1,2 dmg (overall dmg is the same, just different scaling)
+
+- df1,4 no longer knocksdown
+
+- ff1+2 is now a tornado move
+
+- f1+2 no longer a tornado move
+
+- df3+4 now deals 10,10 instead of 12,12, added a high extension
+
+-
+
 ## 066b011 - Update t8_FAHKUMRAM.json
 
 ## d23afbe - Updated Fahk and Doc
