@@ -45,19 +45,19 @@ def update_changelog(folder):
     log_text = get_git_log(folder)
 
     if not log_text:
-        print(f"[SKIP] Keine relevanten Commits in {folder}")
+        print(f"[SKIP] No relevant commits in {folder}")
         return
 
 
     if os.path.exists(changelog_path):
         with open(changelog_path, "r", encoding="utf-8") as f:
             if f.read().strip() == log_text.strip():
-                print(f"[UP TO DATE] {folder}/CHANGELOG.md ist aktuell.")
+                print(f"[UP TO DATE] {folder}/CHANGELOG.md is up to date.")
                 return
 
     with open(changelog_path, "w", encoding="utf-8") as f:
         f.write(log_text + "\n")
-    print(f"[UPDATED] {folder}/CHANGELOG.md aktualisiert.")
+    print(f"[UPDATED] {folder}/CHANGELOG.md updated.")
 
 def main():
     base_dir = os.getcwd()
@@ -67,7 +67,7 @@ def main():
             if has_json_changed(folder):
                 update_changelog(folder)
             else:
-                print(f"[NO CHANGES] {entry} wurde nicht geändert.")
+                print(f"[NO CHANGES] {entry} was not modified.")
 
 if __name__ == "__main__":
     main()

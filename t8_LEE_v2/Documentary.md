@@ -5,7 +5,7 @@
 
 The goal is a character that rewards perfect technique over raw aggression.
 Lee should play cleanly, technically, and precisely — accessible to beginners, very rewarding for experts.
-His gameplay is based on strong keepout, punishment, counter hits and he prefers to work with chip damage and evasion to sneak in damage, rather than good poking and forced mixups.
+His gameplay is based on strong keepout, punishment, counter hits and he prefers to work with chip damage and evasion to sneak in damage, rather than good poking, plus frames and forced mixups.
 Execution-intensive moves such as perfect inputs therefore are enforced to utilize the better damage or properties.
 Lee shines when played with discipline and deliberation. Marvelous!
 
