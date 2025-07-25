@@ -1,3 +1,6 @@
+## 3ac66d5 - Update t8_FAHKUMRAM.json
+Preparement for wallbounce hitreaction
+
 ## e1634e8 - Update t8_FAHKUMRAM.json
 - RAM.1 is now guaranteed after Garuda Force Guardbreak
 
