@@ -52,6 +52,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 	- Gives Garuda Force on hit
 
 ## ff1+2
+
+	- is now a tornado move
+
 	New cancel:	
 					
 	ff1+2,u
@@ -71,8 +74,11 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 ## 3,4,3
 	- 3,4,3 HOLD (without Garuda)
- 		Now guardbreaks at +14F
+ 		Now guardbreaks at +13F
  	
+	- 3,4,3 HOLD (with Garuda)
+		On block, sped up the transition to RAM
+
   	- 3,4,3,f
 		Sped up the cancel, sped up transition into crouch
 	
@@ -100,17 +106,23 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 			Slow, plus on block mid cancel, steppable to both sides, launches on hit
 					
 ## f1+2
-	- Now tornadoes airborne opponents
 	- No longer a heat engager
 
 ## df3+4
-	- Increased damage from 8,8 to 12,12
+	- Increased damage from 8,8 to 10,10
 	- Reduced the recovery frames by "1F"
 
-## (d+3),4,3,4
+	New Cancel:
+	- df3+4,4
+		High extension, duckable and minus on block, natural string, wallsplats
 
-	- 4,3,4 HOLD
- 		Now guardbreaks at "+14F"
+## (d+3),4,3,4
+	- 4,3,4 HOLD (without Garuda)
+ 		Now guardbreaks at "+13F"
+
+	- 4,3,4 HOLD (with Garuda)
+		On block, sped up the transition to RAM
+
 	- 4,3,4,f
 		Sped up the cancel, sped up transition into crouch
 	
@@ -126,6 +138,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 			High cancel, safe on block, wallsplats
 
 ## b+2
+	- b+2,1
+		changed the damage from 17, 25 to 16, 24
+
 	New cancel: 
 
 		- b+2,3
@@ -155,4 +170,5 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
  	- 3,1,d2 is great as a wallcombo for floorbreaks
 	- RAM.2 recovers faster, which will now grant a full combo on a wallsplat!
 	- with 3,1,4 being safe now, you can fish better for crouching opponents and with tight execution even hitconfirm it into 3,1,4,4!
+	- RAM.1 is now guaranteed after guardbreaks with Garduda Install
   
