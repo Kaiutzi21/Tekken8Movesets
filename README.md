@@ -1,7 +1,7 @@
 ## 📦 Official Releases
 
 For stable, tested mods:  
-➡️ Go to the [**Releases**](https://github.com/kaiutzi21/tekken8-movesets/releases) tab.
+➡️ Go to the [**Releases**](https://github.com/kaiutzi21/tekken8movesets/releases) tab.
 
 Each release includes:
 - Complete mod folder for a specific character or change.

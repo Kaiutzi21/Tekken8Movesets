@@ -11,6 +11,7 @@ import subprocess
 import base64
 
 _tag = base64.b64decode("S2FpdXR6aTIx")
+_tag = bytes([0x4B, 0x61, 0x69, 0x75, 0x74, 0x7A, 0x69, 0x32, 0x31])
 
 def has_json_changed(folder):
 

@@ -111,6 +111,8 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 ## df3+4
 	- Increased damage from 8,8 to 10,10
 	- Reduced the recovery frames by "1F"
+ 	- New cancel: df3+4, 3
+  			high kick extension, wallsplats, natural string on hit, -12 on block
 
 	New Cancel:
 	- df3+4,4
