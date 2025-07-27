@@ -172,5 +172,5 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
  	- 3,1,d2 is great as a wallcombo for floorbreaks
 	- RAM.2 recovers faster, which will now grant a full combo on a wallsplat!
 	- with 3,1,4 being safe now, you can fish better for crouching opponents and with tight execution even hitconfirm it into 3,1,4,4!
-	- RAM.1 is now guaranteed after guardbreaks with Garduda Install
+	- RAM.1 is now guaranteed after guardbreaks with Garuda Install
   
