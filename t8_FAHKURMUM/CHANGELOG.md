@@ -1,3 +1,11 @@
+## 6687899 - Updated Fahkumram and Spreadsheet
+- remade the df+4,3,3 cancel, looks much smoother now
+- made a lot of progress on the wallbounce hit reaction
+--> Pong 3 and 1 need to be made now
+--> also adding some slowmo on the bounce back should help
+
+- small updates from my research on the wallbounce situation in the spreadsheet
+
 ## 3ac66d5 - Update t8_FAHKUMRAM.json
 Preparement for wallbounce hitreaction
 
