@@ -12,7 +12,7 @@
   	- [3,4,3](#343)
   	- [3+4](#34)
   	- [d+2](#d2)
-  	- [uf+1 HOLD](#uf1-hold)
+  	- [uf+1](#uf1)
   	- [df+4,3](#df43)
   	- [f+1+2](#f12)
   	- [df+3+4](#df34)
@@ -119,8 +119,10 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 ## d+2
 	- Reduced the recovery frames by "2F"
 
-## uf+1 HOLD
-	- Gives floor stun on hit
+## uf+1
+
+ 	New cancel: uf+1 HOLD
+ 	- Gives floor stun on hit
 	- Removes grey health on hit
 	- Requires & spends Garuda Force. 
 
