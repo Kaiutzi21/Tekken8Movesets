@@ -142,10 +142,6 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
  	- New cancel: df3+4, 3
   			high kick extension, wallsplats, natural string on hit, -12 on block
 
-	New Cancel:
-	- df3+4,4
-		High extension, duckable and minus on block, natural string, wallsplats
-
 ## (d+3),4,3,4
 	- 4,3,4 HOLD (without Garuda)
  		Now guardbreaks at "+13F"
