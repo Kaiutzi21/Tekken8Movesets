@@ -122,7 +122,8 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 ## uf+1
 
  	New cancel: uf+1 HOLD
- 	- Gives floor stun on hit
+ 	- Gives floor stun on aerial hit
+  	- launches on normal hit
 	- Removes grey health on hit
 	- Requires & spends Garuda Force. 
 
