@@ -1,12 +1,41 @@
 # Documentary KING Changes
 
-**All changes, cancels, new stuff listed and commented**
+## Table of content
+- [Design-philosophy / Introduction](#design-philosophy--introduction)
+- [Changenotes](#changenotes)
+	- [ws.2,2](#ws22)
+ 	- [f+2,1](#f21)
+  	- [Chair](#Chair)
+  	- [uf+1+2](#uf12)
+  	- [b+1+2](#b12)
+  	- [3,2](#32)
+  	- [wr.2+4](#wr24)
+  	- [ff,n,1+2](#ffn12)
+  	- [b+3,1+2](#b312)
+  	- [d+3+4](#d34)
+  	- [f+1+2](#f12)
+  	- [1+2](#12)
+  	- [BT.1+2](#bt12)
+  	- [SS.2](#ss2)
+  	- [b+1](#b1)
+  	- [b+3+4](#b34)
+  	- [ws.2](#ws2)
+  	- [ff+4 | df+1,4 | ws.2,4](#ff4--df14--ws24)
+  	- [Jaguar Sprint (JGSp)](#jaguar-sprint-jgsp)
+
+- [Tips & Tricks](#tips--tricks)
+
+
+### [Design-philosophy / Introduction]
 
 King Design Philosophy – “DLC / Boss Mode”
 This version was deliberately designed to be exaggerated, as if he was an overpowered DLC Character or as a “boss character”. 
 Moves received massive upgrades in damage, visuals, and presence – whether through new cancels, unbreakable grabs or other properties. 
 The mechanics are not aimed at balance, but at fun, showmanship, and pure explosiveness. 
 This moveset serves as a declaration of love for his identity.
+
+
+# Changenotes
 
 ## ws.2,2
 	- Strong aerial tailspins airborne opponents
@@ -65,10 +94,12 @@ This moveset serves as a declaration of love for his identity.
 ## b+1
 	- Now fully launches on counter hit
 
-## Jaguar Sprint (JGSp | JGR)
+## Jaguar Sprint (JGSp)
 	- New cancel:
 
 		3+4
 			- power crush, tornadoes airborne opponents,
 			transitions into Jaguar Sprint
 
+## [Tips & Tricks]
+	- placeholder
