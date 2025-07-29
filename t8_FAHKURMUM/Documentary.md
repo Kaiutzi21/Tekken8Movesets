@@ -1,5 +1,17 @@
 # Documentary FAHKUMRAM Changes
 
+## Table of content
+- [Design-philosophy / Introduction](#design-philosophy--introduction)
+- [Changenotes](#changenotes)
+	- [df+1](#df1)
+ 	- [d+4](#d4)
+  	- [b+1](#b1)
+  	- [bf+4](#bf4)
+  	- [ff+1+2](#ff12)
+  	- [3,1](#31)
+
+- [Tips & Tricks](#tips--tricks)
+
 ### Design-philosophy / Introduction 
 
 This Fahkumram moveset is leaning more towards his Tekken 7 iteration, while also having my own spin on it.
