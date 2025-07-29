@@ -12,7 +12,7 @@
   	- [3,4,3](#343)
   	- [3+4](#34)
   	- [d+2](#d2)
-  	- [uf+1](#uf1)
+  	- [uf+1 HOLD](#uf1-hold)
   	- [df+4,3](#df43)
   	- [f+1+2](#f12)
   	- [df+3+4](#df34)
@@ -179,6 +179,8 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 ## ws.2
 	- Increased damage from 13 to 15
+
+_Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 cancels are similar and easier to perform._
 
 ## ff+4 | df+1,4 | ws.2,4
 	- Changed the reaction on hit on airborn opponents to a strong aerial tailspin
