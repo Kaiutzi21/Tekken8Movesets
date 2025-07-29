@@ -18,9 +18,6 @@
   	- [BT.1+2](#bt12)
   	- [SS.2](#ss2)
   	- [b+1](#b1)
-  	- [b+3+4](#b34)
-  	- [ws.2](#ws2)
-  	- [ff+4 | df+1,4 | ws.2,4](#ff4--df14--ws24)
   	- [Jaguar Sprint (JGSp)](#jaguar-sprint-jgsp)
 
 - [Tips & Tricks](#tips--tricks)
