@@ -18,7 +18,7 @@
   	- [BT.1+2](#bt12)
   	- [SS.2](#ss2)
   	- [b+1](#b1)
-  	- [Jaguar Sprint (JGSp)](#jaguar-sprint-jgsp)
+  	- [Jaguar Run (JGR)](#jaguar-sprint-jgr)
 
 - [Tips & Tricks](#tips--tricks)
 
@@ -36,7 +36,7 @@ This moveset serves as a declaration of love for his identity.
 
 ## ws.2,2
 	- Strong aerial tailspins airborne opponents
-	- sped up the transition to JGSp
+	- sped up the transition to JGR
 
 ## f+2,1
 	- Changed on hit reaction for airborne opponents, no longer sending them grounded
@@ -48,10 +48,10 @@ This moveset serves as a declaration of love for his identity.
 	- New cancel:	
 
 		uf1+2,3+4
-			- Cancels into JGSp
+			- Cancels into JGR
 					
 		uf1+2,b,3+4
-			- Cancels into JGSp
+			- Cancels into JGR
 					
 ## b1+2
 	- now also connects on wallbounded opponents
@@ -74,7 +74,7 @@ This moveset serves as a declaration of love for his identity.
 	- Changed cancel:	
 
 		d3+4,2
-			- changed mid extension, converts into JGSp, strong aerial tailspins
+			- changed mid extension, converts into JGR, strong aerial tailspins
 
 ## f1+2
 	- Recovers "4F" faster on hit
@@ -91,7 +91,7 @@ This moveset serves as a declaration of love for his identity.
 ## b+1
 	- Now fully launches on counter hit
 
-## Jaguar Sprint (JGSp)
+## Jaguar Sprint (JGR)
 	- New cancel:
 
 		3+4
