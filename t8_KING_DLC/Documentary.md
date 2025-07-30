@@ -5,7 +5,7 @@
 - [Changenotes](#changenotes)
 	- [ws.2,2](#ws22)
  	- [f+2,1](#f21)
-  	- [Chair](#Chair)
+  	- [Chair](#chair)
   	- [uf+1+2](#uf12)
   	- [b+1+2](#b12)
   	- [3,2](#32)
@@ -18,14 +18,14 @@
   	- [BT.1+2](#bt12)
   	- [SS.2](#ss2)
   	- [b+1](#b1)
-  	- [Jaguar Run (JGR)](#jaguar-sprint-jgr)
+  	- [Jaguar Run (JGR)](#jaguar-run-jgr)
 
 - [Tips & Tricks](#tips--tricks)
 
 
 ### [Design-philosophy / Introduction]
 
-King Design Philosophy – “DLC / Boss Mode”
+King Design Philosophy – “DLC / Boss Mode”  
 This version was deliberately designed to be exaggerated, as if he was an overpowered DLC Character or as a “boss character”. 
 Moves received massive upgrades in damage, visuals, and presence – whether through new cancels, unbreakable grabs or other properties. 
 The mechanics are not aimed at balance, but at fun, showmanship, and pure explosiveness. 
