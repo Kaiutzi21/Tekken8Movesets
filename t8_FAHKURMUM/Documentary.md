@@ -135,6 +135,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 					
 ## f1+2
 	- No longer a heat engager
+ 	- New on-hit reaction: now inflicts a wallbounce like in Tekken 7!
 
 ## df3+4
 	- Increased damage from 8,8 to 10,10
