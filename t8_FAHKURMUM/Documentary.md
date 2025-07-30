@@ -142,7 +142,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 	- Reduced the recovery frames by "1F"
  	- New cancel: df3+4, 3
   			high kick extension, wallsplats, natural string on hit, -12 on block
-
+  
+_Dev Note: This requires a clean input in order to come out! (i.e. can't mash df+3+4, 3+4)_
+  
 ## (d+3),4,3,4
 	- 4,3,4 HOLD (without Garuda)
  		Now guardbreaks at "+13F"
