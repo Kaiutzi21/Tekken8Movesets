@@ -143,7 +143,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
  	- New cancel: df3+4, 3
   			high kick extension, wallsplats, natural string on hit, -12 on block
   
-_Dev Note: The new cancel requires a **clean** input in order to come out! (i.e. can't mash df+3+4, 3+4)_
+_Devnote: the new cancel requires a **clean** input in order to come out! (i.e. can't mash df+3+4, 3+4)_
   
 ## (d+3),4,3,4
 	- 4,3,4 HOLD (without Garuda)
@@ -200,6 +200,6 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 	- after df3,3 (or df4,3,3) on hit grant you a mini combo (or fullcombo depending on size). Mini combo is: d+2 > ws.4 > b+1 > d4. On larger chars you can heat burst after the ws.4!  
  	- 3,1,d2 is great as a wallcombo for floorbreaks
 	- RAM.2 recovers faster, which will now grant a full combo on a wallsplat!
-	- with 3,1,4 being safe now, you can fish better for crouching opponents and with tight execution even hitconfirm it into 3,1,4,4!
+	- with 3,1,4 being safe now, you can fish better for crouching opponents and with decent execution even hitconfirm it into 3,1,4,4!
 	- RAM.1 is now guaranteed after guardbreaks with Garuda Install
   
