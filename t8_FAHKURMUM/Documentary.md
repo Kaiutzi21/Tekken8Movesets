@@ -37,7 +37,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 # Changenotes
 
 ## df+1
-	- Changed from "15F" startup to "13-14F" startup
+	- Changed from "15-16F" startup to "13-14F" startup
 	New cancel:	
 
 		- df+1,2
