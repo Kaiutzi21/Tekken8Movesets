@@ -91,12 +91,12 @@ This moveset serves as a declaration of love for his identity.
 ## b+1
 	- Now fully launches on counter hit
 
-## Jaguar Sprint (JGR)
+## Jaguar Run (JGR)
 	- New cancel:
 
 		3+4
 			- power crush, tornadoes airborne opponents,
-			transitions into Jaguar Sprint
+			transitions into Jaguar Run
 
 ## [Tips & Tricks]
 	- placeholder
