@@ -99,4 +99,7 @@ This moveset serves as a declaration of love for his identity.
 			transitions into Jaguar Run
 
 ## [Tips & Tricks]
-	- placeholder
+	- ws.2,2 serves as a great combo filler now! Sample: fc df+2 > crouch dash > ws.2,2 > JGR 1 > 1,2 > uf+3+4 > JGR 2 > b+3,1+2. Be creative!
+ 	- f+1+2 is now more viable and reliable to use. f+1+2 > Heat Smash at the end of the combo is a great way to cash out some damage. AK players will feel at home!
+  	- 3,2,2 still works as a wall combo if you want to use it. Just make sure you input the last hit before the second hit connects! 
+   	- if you wallsplat your opponent between two corners, you can use b1+2 to throw them to another wall!
