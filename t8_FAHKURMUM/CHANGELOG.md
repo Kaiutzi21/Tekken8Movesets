@@ -1,3 +1,12 @@
+## 18ed7fe - Updated Fahkrumram. created property offset sheet
+- implemented Pong3 reaction
+- prepared for Pong1 reaction! (TODO)
+- fixed df3,3 cancel
+- added hit effects to f1+2
+- added new hitreaction list to df1,2~1 cancel
+
+- created a spreadsheet to research extra move property offsets from tekken 7 to tekken 8. offset appears to be mostly 0x70?
+
 ## 6687899 - Updated Fahkumram and Spreadsheet
 - remade the df+4,3,3 cancel, looks much smoother now
 - made a lot of progress on the wallbounce hit reaction
