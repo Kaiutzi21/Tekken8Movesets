@@ -9,14 +9,14 @@
   	- [bf+4](#bf4)
   	- [ff+1+2](#ff12)
   	- [3,1](#31)
-  	- [3,4,3](#343)
+  	- [3,4~3](#343)
   	- [3+4](#34)
   	- [d+2](#d2)
   	- [uf+1](#uf1)
   	- [df+4,3](#df43)
   	- [f+1+2](#f12)
   	- [df+3+4](#df34)
-  	- [(d+3),4,3,4](#d3434)
+  	- [(d+3),4,3~4](#d3434)
   	- [b+2](#b2)
   	- [b+3+4](#b34)
   	- [ws.2](#ws2)
@@ -43,28 +43,28 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 		- df+1,2
 			High Extension, natural combo
 					
-		- df+1,2,1
+		- df+1,2~1
 			Mid cancel, safe, juggle tool
 					
 		- df+1,4
 			Homing Mid Extension
 					
-		- df+1,4,3
+		- df+1,4~3
 			Low cancel
 				
-		- df+1,4,3,f 
+		- df+1,4~3~f 
 			Cancel into crouch
 				
-		- df+1,4,3,2
+		- df+1,4~3,2
 			Mid Extension, Safe on block, natural combo on hit after the low connects, 
 			increased damage during Garuda Force / heat	
 			This change also applies to ff+4,3,2 | ws2,4,3,2
 					
-		- df+1,4,3,2,u 
+		- df+1,4~3,2,u*
 			Attack to throw conversion. Requires & spends Garuda Force.
 			This change also applies to ff+4,3,2 | ws2,4,3,2
 					
-		- df+1,4,1
+		- df+1,4~1
 			Mid cancel, safe on block and forces crouch
 				
 ## d+4
@@ -82,7 +82,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 	New cancel:	
 					
-	ff1+2,u
+	ff1+2,u*
 			Attack to throw conversion. Requires & spends Garuda Force.
 				
 ## 3,1
@@ -97,20 +97,20 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 		- 3,1,d+2
 			Unsafe mid Extension, floor breaks, natural combo if second hit is counter
 
-## 3,4,3
-	- 3,4,3 HOLD (without Garuda)
+## 3,4~3
+	- 3,4~3* HOLD (without Garuda)
  		Now guardbreaks at +13F
  	
-	- 3,4,3 HOLD (with Garuda)
+	- 3,4~3* HOLD (with Garuda)
 		On block, sped up the transition to RAM
 
-  	- 3,4,3,f
+  	- 3,4~3~f
 		Sped up the cancel, sped up transition into crouch
 	
-	- 3,4,3,b
+	- 3,4~3~b
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
 	
-	- 3,4,3,d
+	- 3,4~3~d
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
 
 ## 3+4
@@ -121,7 +121,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 ## uf+1
 
- 	New cancel: uf+1 HOLD
+ 	New cancel: uf+1* HOLD
  	- Gives floor stun on aerial hit
   	- launches on normal hit
 	- Removes grey health on hit
@@ -130,7 +130,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 ## df+4,3
 	New cancel:	
 
-		df+4,3,3
+		df+4,3~3
 			Slow, plus on block mid cancel, steppable to both sides, launches on hit
 					
 ## f1+2
@@ -145,25 +145,25 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
   
 _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. can't mash df+3+4, 3+4)_
   
-## (d+3),4,3,4
-	- 4,3,4 HOLD (without Garuda)
+## (d+3),4,3~4
+	- 4,3~4* HOLD (without Garuda)
  		Now guardbreaks at "+13F"
 
-	- 4,3,4 HOLD (with Garuda)
+	- 4,3~4* HOLD (with Garuda)
 		On block, sped up the transition to RAM
 
-	- 4,3,4,f
+	- 4,3~4*~f
 		Sped up the cancel, sped up transition into crouch
 	
-	- 4,3,4,b
+	- 4,3~4*~b
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
 	
-	- 4,3,4,d
+	- 4,3~4*~d
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents
 
 	New cancel: 
 
-		- 4,3,4,1 | d+3,4,3,4,1
+		- 4,3~4~1 | d+3,4,3~4~1
 			High cancel, safe on block, wallsplats
 
 ## b+2
