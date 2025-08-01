@@ -1,3 +1,6 @@
+## 41dbec6 - Update t8_FAHKUMRAM.json
+- implemented new throw on hit cancel in ff4,3,2,d and ff1+2,d. still need some fixing and work (no damage yet for some reason)
+
 ## 18ed7fe - Updated Fahkrumram. created property offset sheet
 - implemented Pong3 reaction
 - prepared for Pong1 reaction! (TODO)
