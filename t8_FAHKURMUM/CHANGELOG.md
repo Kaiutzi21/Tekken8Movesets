@@ -1,3 +1,11 @@
+## 73200ed - Updated Fahk, prepared Lars and Bryan
+- new cancel: ff4~3,2,d, triggers floor breaks, requires and spends Garuda
+- Pong1 is now implemented, wallbounce now fully working
+
+- added Lars
+
+- added Bryan
+
 ## 41dbec6 - Update t8_FAHKUMRAM.json
 - implemented new throw on hit cancel in ff4,3,2,d and ff1+2,d. still need some fixing and work (no damage yet for some reason)
 
