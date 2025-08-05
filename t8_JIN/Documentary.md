@@ -26,8 +26,10 @@ Lorem ipsum
  	New Cancel:
   	ff+2* - transitions into throw on hit
 
-## placeholder
-	- placeholder
+## cd.4
+	- now launches on hit
+ 	New Cancel:
+  	cd4,3 - natural string on hit 
 
 ## placeholder
 	- placeholder
