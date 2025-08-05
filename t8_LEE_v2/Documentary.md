@@ -10,7 +10,7 @@ Execution-intensive moves such as perfect inputs therefore are enforced to utili
 Lee shines when played with discipline and deliberation. Marvelous!
 
 ## Universal Changes
-	- Season 2 implented an 'auto backroll' feature for certain knockdowns. This has been removed.
+	- Season 2 implemented an 'auto backroll' feature for a certain type of knockdown. This has been reverted.
 	- Wallsplatted opponents no longer can be tornadoed
  	- Heatburst now spikes airborne opponents, giving a free followup but no longer extends combos
  
