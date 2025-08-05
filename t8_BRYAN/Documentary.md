@@ -13,6 +13,9 @@ Lorem ipsum
 
 # Changenotes
 
+## ff3*
+	- now recovers slightly faster and strong aerial tailspins
+
 ## placholder
 	- placeholder
 	
