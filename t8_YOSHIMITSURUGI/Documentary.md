@@ -13,11 +13,11 @@ Lorem ipsum
 
 # Changenotes
 
-## ff3*
-	- now recovers slightly faster and strong aerial tailspins
+## 1+4
+	- now always launches on hit
 
-## placholder
-	- placeholder
+## uf+2
+	- adjusted the reaciton on hit, making the opponent no longer able to block followups
 	
 # Tips & Tricks
 	- placeholder
