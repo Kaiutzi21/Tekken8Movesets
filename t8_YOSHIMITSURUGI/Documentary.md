@@ -17,7 +17,10 @@ Lorem ipsum
 	- now always launches on hit
 
 ## uf+2
-	- adjusted the reaciton on hit, making the opponent no longer able to block followups
+	- adjusted the reaction on hit, making the opponent no longer able to block followups
+
+## cd.2
+	- now tailspins airborne opponents
 	
 # Tips & Tricks
 	- placeholder
