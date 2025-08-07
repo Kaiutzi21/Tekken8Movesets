@@ -1,1 +1,2 @@
-## c3d473c - Create t8_SHAHEEN.json
+## 3843abe - Folder renaming
+Renamed several folders to distinguish them better from their origins

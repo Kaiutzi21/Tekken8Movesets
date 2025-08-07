@@ -1,3 +1,13 @@
+## 5284fcd - Update t8_FAHKUMRAM.json
+- fixed camera lol
+
+todo: add sound effects and maybe little slowmo to the wallbounce to sell it better
+
+## a88a107 - Update t8_FAHKUMRAM.json
+- fixed the desync on the "d" cancel from ff+1+2 and ff+4~3,2
+
+todo: fixing the camera jump cuts
+
 ## 73200ed - Updated Fahk, prepared Lars and Bryan
 - new cancel: ff4~3,2,d, triggers floor breaks, requires and spends Garuda
 - Pong1 is now implemented, wallbounce now fully working
