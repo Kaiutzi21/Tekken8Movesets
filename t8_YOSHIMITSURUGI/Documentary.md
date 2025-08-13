@@ -21,6 +21,15 @@ Lorem ipsum
 
 ## cd.2
 	- now tailspins airborne opponents
-	
+
+## FLE.1+2
+	- no longer tornadoes
+
+## FLE.ub/u/uf
+	- is now unblockable
+
+## qcf.1
+	- is now unblockable
+ 
 # Tips & Tricks
 	- placeholder
