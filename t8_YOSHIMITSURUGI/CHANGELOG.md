@@ -1,3 +1,5 @@
+## f2a1d71 - Update t8_YOSHIMITSU.json
+
 ## d221612 - added yoshi, updated Editing Sheet
 Yoshi:
 - Flash (2+4) now always launches on hit

@@ -1,3 +1,6 @@
+## 5dde283 - Update t8_FAHKUMRAM.json
+- very minor visual adjustments
+
 ## 5284fcd - Update t8_FAHKUMRAM.json
 - fixed camera lol
 
