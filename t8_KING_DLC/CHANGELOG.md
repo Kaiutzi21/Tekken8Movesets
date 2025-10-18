@@ -1,3 +1,7 @@
+## 91a965c - Update t8_KING.json
+- fixed ffn2 counter hit transition animation
+- b2,4 now cancels into throw by holding back
+
 ## 6354459 - Update t8_KING.json
 - updated some visuals
 
