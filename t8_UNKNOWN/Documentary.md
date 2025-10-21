@@ -1,8 +1,7 @@
-**DOCUMENTARY**
+**DOCUMENTARY FOR AK REDESIGN**
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-		- [Design-philosophy / Introduction](#design-philosophy--introduction)
+**TABLE OF CONTENT**
+- [Design-philosophy / Introduction](#design-philosophy--introduction)
 - [Changenotes](#changenotes)
 	- [3+4\*](#34)
 	- [JAG 2+4 (air)](#jag-24-air)
