@@ -22,8 +22,7 @@
 	- [db2,4,2](#db242)
 - [Tips \& Tricks](#tips--tricks)
 
-
-**Design-philosophy / Introduction**
+### Design-philosophy / Introduction
 
 Lorem ipsum
 
@@ -83,7 +82,6 @@ Lorem ipsum
 ## db2,4,2
 	- new cancel:
 		db2,4,2,f
-
 
 # Tips & Tricks
 	- placeholder
