@@ -6,6 +6,10 @@
 # Description: Small web-based overlay to help generate and copy Commands
 # ================================
 
+
+# NOTE TO SELF: Convert this script into an executable with PyInstaller for easy distribution
+
+
 from flask import Flask, render_template_string, request
 
 app = Flask(__name__)
