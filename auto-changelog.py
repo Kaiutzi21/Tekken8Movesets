@@ -50,13 +50,13 @@ def update_changelog(folder): # Updates or creates the CHANGELOG.md file in the 
 
 
     if os.path.exists(changelog_path): 
-        with open(changelog_path, "r", encoding="utf-8") as f:
-            if f.read().strip() == log_text.strip(): 
+        with open(changelog_path, "r", encoding="utf-8") as changelog_file:
+            if changelog_file.read().strip() == log_text.strip(): 
                 print(f"[UP TO DATE] {folder}/CHANGELOG.md is up to date.") 
                 return 
 
-    with open(changelog_path, "w", encoding="utf-8") as f: 
-        f.write(log_text + "\n")
+    with open(changelog_path, "w", encoding="utf-8") as changelog_file:
+        changelog_file.write(log_text + "\n")
     print(f"[UPDATED] {folder}/CHANGELOG.md updated.")
 
 def main(): 

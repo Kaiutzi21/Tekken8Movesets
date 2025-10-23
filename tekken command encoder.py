@@ -50,11 +50,11 @@ HTML_TEMPLATE = """
 </html>
 """
 
-def encode_button_input(mode: int, not_hold: int, hold: int, press: int) -> int:
-    return (mode << 24) | (not_hold << 16) | (hold << 8) | press
+def encode_button_input(mode: int, not_hold: int, hold: int, press: int) -> int: 
+    return (mode << 24) | (not_hold << 16) | (hold << 8) | press  # Encodes the button input into a single integer
 
 def encode_command_value(button_input: int, directional_input: int) -> str:
-    return f"0x{button_input:08X}{directional_input:08X}"
+    return f"0x{button_input:08X}{directional_input:08X}"   # Combines button input and directional input into final command value
 
 _tag = bytes([0x4B, 0x61, 0x69, 0x75, 0x74, 0x7A, 0x69, 0x32, 0x31])
 
@@ -62,14 +62,14 @@ _tag = bytes([0x4B, 0x61, 0x69, 0x75, 0x74, 0x7A, 0x69, 0x32, 0x31])
 def index():
     result = None
     if request.method == 'POST':
-        try:
-            mode = int(request.form['mode'], 16)
+        try:                                                # Parse hex inputs from the form
+            mode = int(request.form['mode'], 16)            
             not_hold = int(request.form['not_hold'], 16)
             hold = int(request.form['hold'], 16)
             press = int(request.form['press'], 16)
             direction = int(request.form['direction'], 16)
 
-            button_input = encode_button_input(mode, not_hold, hold, press)
+            button_input = encode_button_input(mode, not_hold, hold, press) 
             result = encode_command_value(button_input, direction)
         except ValueError:
             result = "Invalid hex numbers."
