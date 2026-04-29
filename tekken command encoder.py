@@ -10,6 +10,9 @@
 # NOTE TO SELF: Convert this script into an executable with PyInstaller for easy distribution
 
 
+import threading
+import webbrowser
+
 from flask import Flask, render_template_string, request
 
 app = Flask(__name__)
@@ -81,4 +84,7 @@ def index():
     return render_template_string(HTML_TEMPLATE, result=result)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    def open_browser():
+      webbrowser.open("http://127.0.0.1:5000/")
+    threading.Timer(1.0, open_browser).start()
+    app.run(debug=False)
