@@ -1,3 +1,18 @@
+## afa92f6 - Update t8_FAHKUMRAM.json
+- exchanged db3+4 with watered down heat smash
+
+## ac73afc - Update Fahkumram
+- made 3,1,4,4 more delayable
+- trying to move over to new editor
+
+## c637cbd - Update t8_FAHKUMRAM.json
+- 1,2,1,4 - just frame added
+- wallbounce slightly tweaked
+
+## 2321f1d - Update t8_FAHKUMRAM.json
+- new move: ws.1,4
+- sidethrow now also triggers garuda force
+
 ## 7b61615 - quick updates
 
 ## 5dde283 - Update t8_FAHKUMRAM.json
