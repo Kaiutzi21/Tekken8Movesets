@@ -3,6 +3,7 @@
 ## Table of content
 - [Design-philosophy / Introduction](#design-philosophy--introduction)
 - [Changenotes](#changenotes)
+	- [1,2,1,4](#1214)
 	- [df+1](#df1)
  	- [d+4](#d4)
   	- [b+1](#b1)
@@ -20,9 +21,11 @@
   	- [b+2](#b2)
   	- [b+3+4](#b34)
   	- [ws.2](#ws2)
+  	- [ws.1](#ws1)
   	- [ff+4 | df+1,4 | ws.2,4](#ff4--df14--ws24)
   	- [RAM.2](#ram2)
 	- [2+4](#24)
+ 	- [db+3+4](#db34)
 
 - [Tips & Tricks](#tips--tricks)
 
@@ -37,6 +40,10 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 # Changenotes
 
+## 1,2,1,4
+	- added a just frame input of the last hit (input on connecting last hit)
+	- just frame version deals +3 damage and is -10 on block
+	
 ## df+1
 	- Changed from "15-16F" startup to "13-14F" startup
 	New cancel:	
@@ -186,6 +193,12 @@ _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. 
 
 _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 cancels are similar and easier to perform._
 
+## ws.1
+	New cancel:
+
+		- ws.1,4
+			high, NH followup, wallsplats, works in combos or after d+1 CH
+
 ## ff+4 | df+1,4 | ws.2,4
 	- Changed the reaction on hit on airborn opponents to a strong aerial tailspin
 
@@ -194,6 +207,11 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 
 ## 2+4
 	- Now gives Garuda Install on successful throw
+
+## db+3+4
+	- reworked the whole move, it is now a watered down version of his heatsmash
+	- i16 long range whiff punish, tornadoes in combo, -15 on block, knockdown on hit
+	- also works great as wall combo ender 
 
 # Tips & Tricks
 	- utilize his b3+4 to create and maintain distance
