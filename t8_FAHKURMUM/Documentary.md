@@ -212,6 +212,10 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 	- reworked the whole move, it is now a watered down version of his heatsmash
 	- i16 long range whiff punish, tornadoes in combo, -15 on block, knockdown on hit
 	- also works great as wall combo ender 
+	New cancel:
+
+		- db+3+4,1
+			mid, pressure tool, NH followup, floor breaks. Requires Garuda Force.
 
 # Tips & Tricks
 	- utilize his b3+4 to create and maintain distance
@@ -225,4 +229,5 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 	- RAM.2 recovers faster, which will now grant a full combo on a wallsplat!
 	- with 3,1,4 being safe now, you can fish better for crouching opponents and with decent execution even hitconfirm it into 3,1,4,4!
 	- RAM.1 is now guaranteed after guardbreaks with Garuda Install
+	- db+3+4,1 fully hits grounded opponents at the wall. Therefore a great high damage wall combo is 3,1 > db+3+4,1 when in Garuda!
   
