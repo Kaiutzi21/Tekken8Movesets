@@ -17,7 +17,7 @@
   	- [df+4,3](#df43)
   	- [f+1+2](#f12)
   	- [df+3+4](#df34)
-  	- [(d+3),4,3~4](#d3434)
+  	- [d+3,4,3~4](#d3434--434)
   	- [b+2](#b2)
   	- [b+3+4](#b34)
   	- [ws.2](#ws2)
@@ -41,7 +41,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 # Changenotes
 
 ## 1,2,1,4
-	- added a just frame input of the last hit (input on connecting last hit)
+	- added a just frame input of the last hit (input on connecting last hit) (1,2,1:4)
 	- just frame version deals +3 damage and is -10 on block
 	
 ## df+1
@@ -154,7 +154,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
   
 _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. can't mash df+3+4, 3+4)_
   
-## (d+3),4,3~4
+## d+3,4,3~4 | 4,3~4
 	- 4,3~4* HOLD (without Garuda)
  		Now guardbreaks at "+13F"
 
@@ -205,7 +205,7 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 ## RAM.2
 	- Reduced recovery frames by 4F
 
-## 2+4
+## 2+4 | Sidethrow right
 	- Now gives Garuda Install on successful throw
 
 ## db+3+4
@@ -215,7 +215,7 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 	New cancel:
 
 		- db+3+4,1
-			mid, pressure tool, NH followup, floor breaks. Requires Garuda Force.
+			mid, pressure tool, NH followup, floor breaks. Requires & spends Garuda Force.
 
 # Tips & Tricks
 	- utilize his b3+4 to create and maintain distance
