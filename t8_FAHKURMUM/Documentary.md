@@ -199,13 +199,16 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 		- ws.1,4
 			high, NH followup, wallsplats, works in combos or after d+1 CH
 
+		- ws.1,2,2
+			mid, mid, mid - NH followup, unsafe, slightly delayable
+
 ## ff+4 | df+1,4 | ws.2,4
 	- Changed the reaction on hit on airborn opponents to a strong aerial tailspin
 
 ## RAM.2
 	- Reduced recovery frames by 4F
 
-## 2+4 | Sidethrow right
+## 2+4
 	- Now gives Garuda Install on successful throw
 
 ## db+3+4
@@ -215,7 +218,7 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 	New cancel:
 
 		- db+3+4,1
-			mid, pressure tool, NH followup, floor breaks. Requires & spends Garuda Force.
+			mid, pressure tool, NH followup. Requires & spends Garuda Force.
 
 # Tips & Tricks
 	- utilize his b3+4 to create and maintain distance
