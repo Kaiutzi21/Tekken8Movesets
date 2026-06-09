@@ -122,6 +122,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 	- 3,4~3~d
 		Sped up the cancel, induces strong aerial tailspin on airborne opponents, consumes less heat
 
+	- 3,4~d+3,2
+		New cancel into his hellsweep
+
 ## 3+4
 	- Gives Garuda Force on counter hit
 
