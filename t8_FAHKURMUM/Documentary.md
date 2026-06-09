@@ -3,6 +3,7 @@
 ## Table of content
 - [Design-philosophy / Introduction](#design-philosophy--introduction)
 - [Changenotes](#changenotes)
+	- [Heatburst](#heatburst)
 	- [1,2,1,4](#1214)
 	- [df+1](#df1)
  	- [d+4](#d4)
@@ -26,6 +27,7 @@
   	- [RAM.2](#ram2)
 	- [2+4](#24)
  	- [db+3+4](#db34)
+  	- [db+2](#db2)
 
 - [Tips & Tricks](#tips--tricks)
 
@@ -34,11 +36,14 @@
 This Fahkumram moveset is leaning more towards his Tekken 7 iteration, while also having my own spin on it.
 Overall leaning to the 'overbuffed' side, but not all too overpowered. He is yet weak to sidesteps and unsafe on whiffs and therefore quite commital. 
 In my opinion he feels more explosive and fun to play, while still being methodical and risky. 
-He kept being most comfortable at long-mid range and his b3+4 is now amazing at bullying and creating the perfect distance.
+He kept being most comfortable at long-mid range. His b3+4 is now amazing at bullying and creating the perfect distance for himself, to abuse his advantage.
 Impatient opponents will be punished a bit more now since his counter-hit tools now give Garuda Force and overall there are now more ways to spend it and cash out.
 
 
 # Changenotes
+
+## Heatburst
+	- Heatburst cancel no longer consumes heat and is a lot faster. 
 
 ## 1,2,1,4
 	- added a just frame input of the last hit (input on connecting last hit) (1,2,1:4)
@@ -222,6 +227,9 @@ _Devnote: this is to make ws.2 cancels in combos more rewarding, since df+1 canc
 
 		- db+3+4,1
 			mid, pressure tool, NH followup. Requires & spends Garuda Force.
+
+## db+2
+	- reworked the whole move, it is now his fc.df+2
 
 # Tips & Tricks
 	- utilize his b3+4 to create and maintain distance
