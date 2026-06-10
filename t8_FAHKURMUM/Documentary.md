@@ -192,6 +192,9 @@ _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. 
 		- b+2,3
 			Low Extension
 
+		- b+2,1 HOLD
+			Chargeable guardbreak, launch on counterhit, duckable
+
 ## b3+4
 	- increased pushback on block and hit
 	- Changed the reaction on block, making this move -7 instead of -13
