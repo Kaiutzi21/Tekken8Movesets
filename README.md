@@ -8,19 +8,13 @@ Each release includes:
 - Ready-to-use files with known compatibility.
 - Complete Documentary and Changelog about every change
 
-Use the 'Tekken 8 Moveset Extractor' and once in game load the movesets into your playerside. Moveset-character MUST equal gameplay-character.
+Use the 'Tekken 8 Moveset Extractor' (by Kilo/LukzB) and once in game load the movesets into your playerside. Moveset-character MUST equal ingame-character.
 
 ## Disclaimer – Use Releases Only!
 
 **Please note:**  
 All files on the repository branches are **work-in-progress** and may be unstable or incomplete.  
-Some modifications may cause **game crashes** or unexpected behavior.
-
-## Used Tools
-- Tekken 8 Moveset Extractor (by Kilo/LukzB)
-- Command Input Tool (by me)
-- Hex Converter
-- Cheat Engine
+Therefore some modifications may cause game crashes or unexpected behavior.
 
 ## License
 
