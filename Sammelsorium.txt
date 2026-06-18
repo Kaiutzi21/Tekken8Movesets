@@ -1,0 +1,64 @@
+########################
+#                      #
+# BOSS VERSION PROJECT #
+#                      #
+########################
+
+HEIHACHI
+- EWGF + OTGF always blue spark
+- b+2 and df1,2 always Gold spark
+- OTGF quicker recovery and higher launch for Combo potential
+- df1,2 wallsplats
+- df4,1+2,1 Always blue spark + wallsplat
+- Warrior Instinct Always active
+- WR1+2 faster recovery
+- 
+
+-------------------------------------------
+
+KING
+- ISW Tornado
+- Always blue spark throw
+- ws 2,2 faster Transition, quicker act out of Jaguar Sprint
+- during Jaguar sprint uf3+4 
+- uf1+2 throw faster recovery and Transition into Jaguar Sprint
+- stronger Ground throws
+- throws in General give better oki
+
+-------------------------------------------
+
+ARMOR KING
+- ISW Bound
+- unique Install / Fire up mechanic (flame breathing on Hand)
+- Moves with stronger properties during install
+- Stomp Bound
+- clothesline / qcf1 faster recovery
+- b+4 launch
+- 
+
+-------------------------------------------
+
+LEE
+- more bluesparks and Always blue spark
+- juiced up heat Moves
+- crazy chip Damage
+- 
+
+-------------------------------------------
+
+STEVE
+- 9F Jab
+- PAB u2 invincible Startup
+- faster Extended Duck
+- restore old moveset
+- 
+
+-------------------------------------------
+
+YOSHIMITSU
+- flash Always launches
+- b1 and Standing 2 Combo into flash
+- cd2 tailspin
+- 
+
+-------------------------------------------
