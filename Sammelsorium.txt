@@ -47,7 +47,7 @@ LEE
 -------------------------------------------
 
 STEVE
-- 9F Jab
+- 8-9F Jab (like TEKKEN 5)
 - PAB u2 invincible Startup
 - faster Extended Duck
 - restore old moveset
