@@ -16,6 +16,7 @@
   	- [d+2](#d2)
   	- [uf+1](#uf1)
   	- [df+4,3](#df43)
+  	- [df+2](#df2)
   	- [f+1+2](#f12)
   	- [df+3+4](#df34)
   	- [d+3,4,3,4 | 4,3,4](#d3434--434)
@@ -149,7 +150,13 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 		df+4,3~3
 			Slow, plus on block mid cancel, steppable to both sides, launches on hit
-					
+
+## df+2
+	New cancel:	
+
+		df+2,4
+			High, safe, heat engager
+
 ## f1+2
 	- No longer a heat engager
  	- New on-hit reaction: now inflicts a wallbounce like in Tekken 7!
