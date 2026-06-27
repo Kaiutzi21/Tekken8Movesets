@@ -5,6 +5,7 @@ Ideas:
   - make his ff+4~3 also cancelable to b and f? 
 - df3+4,3+4 transition in juggles for a 'restand'?
 - make new RAMA stance cancels?
+- d4 counterhit: when in Garuda + Heat, hold down for his old ragedrive kick?
 
 Todo:
 - give wallbounce sound effects
