@@ -59,6 +59,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 					
 		- df+1,2~1
 			Mid cancel, safe, juggle tool
+
+		- df+1,2~1,2
+			Mid followup. Requires and spends Garuda. 
 					
 		- df+1,4
 			Homing Mid Extension
@@ -191,9 +194,6 @@ _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. 
 			High cancel, safe on block, wallsplats
 
 ## b+2
-	- b+2,1
-		changed the damage from 17, 25 to 16, 24
-
 	New cancel: 
 
 		- b+2,3
@@ -204,7 +204,7 @@ _Devnote: the new cancel requires a **clean** input in order to come out! (i.e. 
 
 ## b3+4
 	- increased pushback on block and hit
-	- Changed the reaction on block, making this move -7 instead of -13
+	- Changed the reaction on block, making this move -6 instead of -13
 
 ## ws.2
 	- Increased damage from 13 to 15
