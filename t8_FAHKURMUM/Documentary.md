@@ -9,6 +9,7 @@
    	- [2,3](#23)
  	- [d+4](#d4)
   	- [b+1](#b1)
+  	- [b+3](#b3)
   	- [bf+4](#bf4)
   	- [ff+1+2](#ff12)
   	- [3,1](#31)
@@ -95,6 +96,9 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 ## b+1
 	- Changed the reaction on hit
+
+## b+3
+	- No longer a Heat Engager
 
 ## bf+4
 	- Gives Garuda Force on hit
