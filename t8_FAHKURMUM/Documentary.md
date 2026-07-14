@@ -6,6 +6,7 @@
 	- [Heatburst](#heatburst)
 	- [1,2,1,4](#1214)
 	- [df+1](#df1)
+   	- [2,3](#23)
  	- [d+4](#d4)
   	- [b+1](#b1)
   	- [bf+4](#bf4)
@@ -84,7 +85,11 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 					
 		- df+1,4~1
 			Mid cancel, safe on block and forces crouch
-				
+
+
+## 2,3
+	- is now a Heat Engager
+
 ## d+4
 	- Gives Garuda Force on counter hit
 
