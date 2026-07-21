@@ -93,6 +93,7 @@ Impatient opponents will be punished a bit more now since his counter-hit tools 
 
 ## d+4
 	- Gives Garuda Force on counter hit
+	- during Garuda Force + Heat, new on hit reaction on Counter Hit. Spends Heat + Garuda 
 
 ## b+1
 	- Changed the reaction on hit
